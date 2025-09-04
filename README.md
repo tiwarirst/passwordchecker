@@ -2,6 +2,8 @@
 
 A sophisticated web-based tool for analyzing and generating secure passwords with real-time security assessment.
 
+🌐 **[Live Demo](https://tiwarirst.github.io/passwordchecker)**
+
 ## Features
 
 - 🔒 **Password Strength Analysis**
